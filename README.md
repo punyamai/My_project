@@ -16,3 +16,6 @@
 #### Olympics Data Dashboard | Github: https://github.com/punyamai/Dashboard_project
 - Summary: Creating an interactive dashboard with drop-down menus for data filtering. Including  bar chart distribution and line chart visualizations. Additionally, scorecards display important values.
 - Tools: Looker Studio
+#### Superstore Dashboard | Github: https://github.com/punyamai/Superstore_Dashboard
+- Summary: Creating an interactive dashboard with drop-down menus for data filtering. Including  bar chart distribution, mapping and line chart visualizations. Additionally, scorecards display profits, sales, and customers in the selected year.
+- Tools: Tableau public
